@@ -1,6 +1,6 @@
 # Google-Analytics-4-Data-API
 
-Practicing with GA4 DATA API to retreive data on:
+Practising with GA4 DATA API to retreive data on:
 - event level
 - session level
 - consider if the metrics and dimensions are compatible
